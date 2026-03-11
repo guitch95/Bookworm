@@ -2,7 +2,9 @@
 
 Application iOS de suivi de lectures avec système de notation, avis et gestion de bibliothèque, développée avec **SwiftUI** et **SwiftData**.
 
-`Swift` `iOS` `SwiftUI` `SwiftData`
+![Swift](https://img.shields.io/badge/Swift-6.0-orange.svg)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-iOS%2016+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)
 
 ## 📱 Aperçu
 
